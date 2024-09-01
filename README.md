@@ -5,7 +5,7 @@ In this projetc I used **web scrapping** on the website **Trustpilot** to accumu
 
 # AI Model
 The task we want to do is **Zero shot classification** of text data.
-The model used is **Comprehend-it-base** by Knowledgator. This is a model based on DeBERTaV3-base that was trained on natural language inference datasets as well as on multiple text classification datasets. It demonstrates better quality on the diverse set of text classification datasets in a zero-shot setting than Bart-large-mnli while being almost **3 times smaller**. Moreover, the model can be used for multiple information extraction tasks in zero-shot setting.
+The model used is **Comprehend-it-base** by Knowledgator. This is a model based on DeBERTaV3-base that was trained on natural language inference datasets as well as on multiple text classification datasets. It demonstrates better quality on the diverse set of text classification datasets in a zero-shot setting than Bart-large-mnli while being almost **3 times smaller**. Moreover, the model can be used for multiple information extraction tasks in zero-shot setting. You can find the model [here](https://huggingface.co/knowledgator/comprehend_it-base)
 
 # Tool
 - Selenium
